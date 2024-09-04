@@ -4,7 +4,7 @@
 base_folder="text"
 
 # 定义新增章节数目
-new_chapters=4
+new_chapters=40
 
 # 检查文件夹是否存在，如果不存在则创建
 if [ ! -d "$base_folder" ]; then
